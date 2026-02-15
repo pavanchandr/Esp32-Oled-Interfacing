@@ -23,5 +23,5 @@ This project demonstrates interfacing an SSD1306 128x64 OLED display with an ESP
 - Embedded programming with ESP32
 
 ## Demo
-![Setup](![ESP32_Hi_Pavan](https://github.com/user-attachments/assets/89c81641-7799-4f15-9b43-02ee2fc29429)
-)
+![Setup](![![ESP32_Hi_Pavan](https://github.com/user-attachments/assets/56d83445-3f4f-4034-ac34-2229e3cedad3)
+])
