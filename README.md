@@ -13,15 +13,14 @@ This project demonstrates interfacing an SSD1306 128x64 OLED display with an ESP
 | VCC  -- 3.3V    |
 | GND  -- GND     |
 
-## Feature
+## Features
 - Display welcome message
 - Uses I2C protocol
 
 ## Learning Outcome
-- Understanding I2C communications
+- Understanding I2C communication
 - OLED display interfacing
 - Embedded programming with ESP32
 
 ## Demo
-![Setup](![![ESP32_Hi_Pavan](https://github.com/user-attachments/assets/56d83445-3f4f-4034-ac34-2229e3cedad3)
-])
+![Setup]([ESP32_Hi_Pavan.jpg]
